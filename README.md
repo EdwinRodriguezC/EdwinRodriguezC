@@ -1,7 +1,7 @@
 # <p align="center"> Together we do more 🚀 </p> 
 
 <p align="center">
-<em>👨🏻‍💻 I am a passionate computer science student with an interest in software development.
+<em>👨🏻‍💻 I am a passionate computer science student with an interest in software development.<a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <br>💡I am excited to share my work and collaborate with others in the GitHub developer community.
 </em>
 </p>
