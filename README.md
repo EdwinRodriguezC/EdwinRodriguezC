@@ -12,38 +12,3 @@
 
 # <p align="center">💻</p>
 
-```C++
-#include <iostream>
-
-using namespace std;
-/* Nuestra funcion no va a regresar nada, 
-solo va a ejecutar los comandos que esten dentro "Void" */
-
-void PrintCutMessage(){
-    cout << "Eres increible!" << endl;
-    cout << "Hoy va a ser un gran dia" << endl;
-    cout << ":D" << endl;  
-} 
-int main(){
-
-    PrintCutMessage();
-     
-
-}
-
-
-```C++
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
- 
