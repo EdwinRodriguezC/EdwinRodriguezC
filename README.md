@@ -13,6 +13,26 @@
 # <p align="center">💻</p>
 
 ```C++
+#include <iostream>
+
+using namespace std;
+/* Nuestra funcion no va a regresar nada, 
+solo va a ejecutar los comandos que esten dentro "Void" */
+
+void PrintCutMessage(){
+    cout << "Eres increible!" << endl;
+    cout << "Hoy va a ser un gran dia" << endl;
+    cout << ":D" << endl;  
+} 
+int main(){
+
+    PrintCutMessage();
+     
+
+}
+
+
+```C++
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
