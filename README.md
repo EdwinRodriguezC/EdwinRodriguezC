@@ -13,3 +13,37 @@
 # <p align="center">💻</p>
 
 # <p align="center"> A little more about me </p> 
+
+```C++
+#include <iostream>
+
+using namespace std; 
+void Code(){ 
+    //Code
+    cout << "[Python, C++, JS, Html/Css, SQL, ]" << endl; 
+}
+void Tools(){
+    //Tools
+    cout << "[Git, GitHub, Google Cloud, React, Google Test, Linux]" << endl;
+}
+void Architecture(){
+    //Architecture
+    cout << "[Kubernetes, Cloud Shell, Virtual Machines, Stackdriver, Cloud Functions, IMA, Cloud DNS, Cloud CDN]" << endl;
+}
+void Technologies_Of_Interest(){ 
+    //Technologies of Interest
+    cout << "[Cybersecurity]" << endl;
+    cout << "[Ethical Hacking]" << endl;
+    cout << "[Cybercrime Prevention]" << endl;
+    cout << "[Protection and capture of digital evidence]" << endl; 
+    cout << "[Network Secutity]" << endl;
+}
+int main(){
+    cout << "Edwin Rodríguez" << endl;
+
+    Code();
+    Tools();
+    Architecture();
+    Technologies_Of_Interest();
+}
+
