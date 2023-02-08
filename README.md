@@ -12,7 +12,7 @@
 
 # <p align="center">💻</p>
 
-# <p align="center"> A little more about me </p> 
+ <p align="center"> A little more about me </p> 
 
 ```C++
 #include <iostream>
