@@ -20,7 +20,7 @@
 using namespace std; 
 void Code(){ 
     //Code
-    cout << "[Python, C++, JS, Html/Css, SQL, ]" << endl; 
+    cout << "[Python, C++, JS, Html/Css, SQL,]" << endl; 
 }
 void Tools(){
     //Tools
